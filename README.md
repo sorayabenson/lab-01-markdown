@@ -1,16 +1,21 @@
 # lab-01-markdown
-//  add random examples of a bullet list, a table, bold, italicized, h1, h2, and h3 text //
 
-# h1
-## h2
-### h3
+# The Moon IS So **Rad**
+## Have you seen the moon lately?
+### *Please* go look at the moon tonight.
 
-These are **bold** words and these are *italic*
 
-- bullet
-- list
+**Reasons to go look at the moon**
+- It's shiny
+- It's calming
+- Sometimes you can see planets also vibing in the night sky.
 
-| Table | Header |
-| ----- | ------ |
-| content | content |
-| content | content |
+| Planets | Visibility by |
+| ----- | ----- |
+| Mercury | Eye |
+| Venus | |Eye |
+| Mars | Eye |
+| Jupiter | Eye |
+| Saturn | Eye |
+| Uranus | Ridiculous Eyes or a Telescope |
+| Neptune | Telescope |
