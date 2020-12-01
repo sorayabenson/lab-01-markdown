@@ -1,6 +1,6 @@
 # lab-01-markdown
 
-# The Moon IS So **Rad**
+# The Moon Is So **Rad**
 ## Have you seen the moon lately?
 ### *Please* go look at the moon tonight.
 
@@ -13,7 +13,7 @@
 | Planets | Visibility by |
 | ----- | ----- |
 | Mercury | Eye |
-| Venus | |Eye |
+| Venus | Eye |
 | Mars | Eye |
 | Jupiter | Eye |
 | Saturn | Eye |
