@@ -5,7 +5,7 @@
 ## h2
 ### h3
 
-** bold ** * italic *
+These are **bold** words and these are *italic*
 
 - bullet
 - list
