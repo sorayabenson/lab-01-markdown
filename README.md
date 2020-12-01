@@ -5,8 +5,7 @@
 ## h2
 ### h3
 
-* bold **
-* italic *
+** bold ** * italic *
 
 - bullet
 - list
